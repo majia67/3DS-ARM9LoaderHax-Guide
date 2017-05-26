@@ -11,8 +11,8 @@ title                    : "3DS arm9loaderhax 教程"
 title_separator          : "-"
 name                     : "majia67"
 description              : "利用arm9loaderhax实现3DS运行自制固件的完整教程"
-url                      : "https://3dshax.cn" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-enforce_ssl              : "3dshax.cn"
+url                      : "https://a9lh.3dshax.cn" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+enforce_ssl              : "a9lh.3dshax.cn"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "majia67/3DS-ARM9LoaderHax-Guide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -49,8 +49,8 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : 
-bing_site_verification   : 
+google_site_verification :
+bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "majia67"
-  avatar           : 
-  bio              : 
-  location         : 
+  avatar           :
+  bio              :
+  location         :
   email            : "majiadomain@gmail.com"
   uri              :
   bitbucket        :
