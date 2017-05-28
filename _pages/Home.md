@@ -14,6 +14,9 @@ lang: zh_CN
 ref: home
 ---
 
+原版教程已更新到使用boot9strap，点击进入[新boot9strap教程](https://3dshax.cn)。如果你已经安装了arm9loaderhax，想升级到boot9strap，点击进入[升级到B9S教程](https://3dshax.cn/updating-to-boot9strap)。
+{: .notice--info}
+
 {% capture notice-home %}
 **本教程仅适用于零售版的3DS (自行购买，而不是来自Nintendo Developer Program) ！
 如果你的3DS属于开发机 ("PANDA"或"SNAKE")，请参见[devGuide](https://dev.3ds.guide)**
